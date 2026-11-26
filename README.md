@@ -9,12 +9,13 @@ The first 30 days are mapped in [CONTENT_CALENDAR.md](CONTENT_CALENDAR.md). The 
 - One small deliverable most days: a micro-tool, an analysis, a teardown or a metrics tree.
 - One larger project per week, built from the earlier days' research and PRD.
 - Larger projects get their own repo and are linked from here.
+- I write ahead and release on a daily schedule. Commit dates show when something was published, not when I wrote it.
 
-## Planned flagship projects
+## Projects
 
 | Project | Problem | Status |
 |---|---|---|
-| Payment failure and smart retry advisor | Failed payments that could have succeeded on retry | Planned |
+| [Payment retry advisor](ai-products/retry-advisor) | Failed payments that could have succeeded on retry | In progress |
 | Dispute evidence copilot | Merchants losing chargebacks for missing evidence | Planned |
 | Merchant cash-flow underwriting signals | Lending decisions for small merchants with thin files | Planned |
 | Payments support agent with evaluation | Support answers that are fast but wrong | Planned |
